@@ -1,4 +1,4 @@
-👀 Interested in energy system modelling and optimisation, arduino and rhasspy projects. 
+👀 Interested in energy system modelling and optimisation, arduino and raspberry pi projects. 
 GAMS, Python and C++.
 
 <!---
